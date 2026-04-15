@@ -99,10 +99,10 @@ When I'm not coding, you'll find me dancing or watching horror movies.`,
   // ----------------------------------------------------------
   education: [
     {
-      degree: "B.E. in Artificial Intelligence and Machine Learning",
+      degree: "B.E. in Computer Engineering",
       institution: "Savitribai Phule Pune University",
       duration: "2024 – 2028",
-      description: "Currently in Second Year. CGPA: 8.5 / 10",
+      description: "Currently in Second Year. CGPA: 9.27 / 10",
     },
     {
       degree: "HSC (12th Grade)",
